@@ -13,7 +13,7 @@
         "league/uri": "^4",
         "nesbot/carbon": "~1.22",
         "php": ">=7.0",
-        "symfony/css-selector": "~3",
+        "symfony/css-selector": "~4",
         "symfony/dom-crawler": "~3"
     },
     "require-dev": {
